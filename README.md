@@ -1,5 +1,3 @@
-
-```markdown
 # RAGify
 
 RAGify is a query response system designed to provide accurate answers to your questions. Using advanced algorithms, it processes your questions and delivers precise answers by leveraging state-of-the-art natural language processing (NLP) techniques.
