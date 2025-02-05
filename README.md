@@ -1,6 +1,13 @@
 # RAGify
 
-RAGify is a query response system designed to provide accurate answers to your questions. Using advanced algorithms, it processes your questions and delivers precise answers by leveraging state-of-the-art natural language processing (NLP) techniques.
+RAGify is a query response system designed to provide accurate answers to your questions.
+   AI-Powered Query Response System: RAGify leverages state-of-the-art AI models to provide accurate and reliable answers to your questions.
+   API Integration: Uses robust APIs to fetch and process data, ensuring up-to-date and relevant responses.
+   Natural Language Processing: Advanced NLP techniques are employed to understand and process user queries effectively.
+   Efficient and Scalable: Capable of handling large volumes of queries simultaneously, making it suitable for enterprise-level usage.
+   Interactive User Interface: Simple and intuitive frontend for easy interaction with the system.
+   Data Preprocessing: Load and preprocess enterprise data seamlessly for analysis and querying.
+   Embeddings Generation: Utilizes text embeddings for improved query understanding and response accuracy.
 
 ## Features
 
